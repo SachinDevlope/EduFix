@@ -10,10 +10,6 @@ const nextConfig = {
       { protocol: 'https', hostname: 'i.pravatar.cc' },
     ],
   },
-  eslint: {
-    // Do not fail production builds on lint warnings (demo-friendly).
-    ignoreDuringBuilds: true,
-  },
 };
 
 export default nextConfig;
