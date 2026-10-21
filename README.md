@@ -173,7 +173,3 @@ and size validation on uploads, and no secrets in source (all via env vars). See
   (Resend/SES) is the only remaining step for live password resets.
 
 ---
-
-## 📦 License
-
-MIT — built for educational institutions, government stakeholders and evaluators.
